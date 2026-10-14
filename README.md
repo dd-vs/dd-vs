@@ -15,10 +15,10 @@ I'm putting my hands-on skills into public, documented projects. Each repo has a
  
 | Project | What it shows |
 |---|---|
-| [tf-aws-network](https://github.com/YOUR-USERNAME/tf-aws-network) | Terraform modules for AWS networking and compute, with dev and prod environments |
-| [k8s-platform-demo](https://github.com/YOUR-USERNAME/k8s-platform-demo) | Kubernetes app with Helm, autoscaling, monitoring and failure-drill write-ups |
-| [cicd-pipeline](https://github.com/YOUR-USERNAME/cicd-pipeline) | GitHub Actions CI, Terraform pipeline with OIDC, and GitOps with Argo CD |
-| [devops-capstone](https://github.com/YOUR-USERNAME/devops-capstone) | End-to-end deployment on AWS from commit to running app |
+| [tf-aws-network](https://github.com/dd-vs/tf-aws-network) | Terraform modules for AWS networking and compute, with dev and prod environments |
+| [k8s-platform-demo](https://github.com/dd-vs/k8s-platform-demo) | Kubernetes app with Helm, autoscaling, monitoring and failure-drill write-ups |
+| [cicd-pipeline](https://github.com/dd-vs/cicd-pipeline) | GitHub Actions CI, Terraform pipeline with OIDC, and GitOps with Argo CD |
+<!---| [devops-capstone](https://github.com/dd-vs/devops-capstone) | End-to-end deployment on AWS from commit to running app |-->
  
 ## How I like to work
  
@@ -27,5 +27,5 @@ I'm putting my hands-on skills into public, documented projects. Each repo has a
 - Keep cloud costs visible and clean up after experiments
 ## Get in touch
  
-- LinkedIn: [your LinkedIn link here](https://www.linkedin.com/in/YOUR-PROFILE)
-- Email: your-email@example.com
+- LinkedIn: [your LinkedIn link here](https://www.linkedin.com/in/durgadas-vs/)
+- Email: durgadasvs@outlook.com
