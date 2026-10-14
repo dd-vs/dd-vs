@@ -1,6 +1,6 @@
 # Hi, I'm Durgadas
  
-**Cloud & DevOps engineer** with 15+ years in IT across development, system administration and technical support. I now focus on cloud infrastructure, automation and reliable delivery pipelines.
+**Cloud & DevOps engineer** with 15+ years in IT across development, system administration, cloud infrastructure, and technical support. I now focus on cloud infrastructure, automation and reliable delivery pipelines.
  
 ## What I work with
  
