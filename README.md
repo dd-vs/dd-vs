@@ -27,5 +27,5 @@ I'm putting my hands-on skills into public, documented projects. Each repo has a
 - Keep cloud costs visible and clean up after experiments
 ## Get in touch
  
-- LinkedIn: [your LinkedIn link here](https://www.linkedin.com/in/durgadas-vs/)
+- LinkedIn: [Durgadas V S](https://www.linkedin.com/in/durgadas-vs/)
 - Email: durgadasvs@outlook.com
