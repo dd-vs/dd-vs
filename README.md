@@ -28,4 +28,3 @@ I'm putting my hands-on skills into public, documented projects. Each repo has a
 ## Get in touch
  
 - LinkedIn: [Durgadas V S](https://www.linkedin.com/in/durgadas-vs/)
-- Email: durgadasvs@outlook.com
